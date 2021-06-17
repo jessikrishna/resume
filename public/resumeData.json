@@ -2,29 +2,29 @@
   "main": {
     "name": "Krishna Kumar",
     "occupation": "Student",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "I am from RCCIIT in B.Tech.I want to be a Software Engineer, currently unemployed but searching to get as best as I can.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "I am an athlete at heart and have a passion for coding. Born in a small town in Bihar in Gaya, I made my move to Kolkata where I study to be a Software Developer in B.Tech. I love to create and tend to keep a few too many projects on the go at a time.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "krishnajessi4@gmail.com",
+    "phone": "+91-9031498240",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "Manpur Patwatoli Satghar",
+      "city": "Gaya",
+      "state": "Bihar",
+      "zip": "823003"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.google.com",
+    "resumedownload": "http://google.com",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/jessikrishna/",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/jessikrishna4",
         "className": "fa fa-twitter"
       },
       {
@@ -34,73 +34,60 @@
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/jessi_krishna/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/jessikrishna",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "RCC Institute of Information Technology",
+        "degree": "B.Tech",
+        "graduated": "June 2022",
+        "description": "I attended RCCIIT for my first 4 years of the college. While here, I studied Information Technology, a 4 year lead-in to a Bachelors of Technology. This was a very hands-on experience focused more on building projects than general theory. Here I learnt data structures with C++ programming, and much more."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "British English School",
+        "degree": "Senior Secondary",
+        "graduated": "March 2017",
+        "description": "I attended 2 years program for my Senior secondary in BES and got 75% in the result. I had learnt there a lot from sports to theoretical subjects."
       }
     ],
-    "work": [
-      {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
-    ],
+    
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "C++",
+        "level": "90%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "HTML5",
+        "level": "90%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "CSS",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "Node.js",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "Express.js",
+        "level": "60%"
       },
       {
-        "name": "MongoDB",
+        "name": "JavaScript",
         "level": "80%"
       }
     ]
@@ -108,46 +95,40 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Game Sudoku",
+        "category": "My Pyhton Project",
+        "image": "sudoku.jpg",
+        "url": "https://github.com/jessikrishna/Game_Sudoku"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "MyLearning Website",
+        "category": "Using HTML and CSS",
+        "image": "learning component.jpg",
+        "url": "https://github.com/jessikrishna/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "My Personal Site",
+        "category": "My Personal  Site",
+        "image": "learning component2.jpg",
+        "url": "https://github.com/jessikrishna/"
       },
       {
         "title": "Resume Website",
         "category": "A React based resume website template",
         "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "url": "https://github.com/jessikrishna/resume"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "user": "Nelson Mandela"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.",
+        "user": "Steve Jobs"
       }
     ]
   }
