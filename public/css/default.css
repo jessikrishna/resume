@@ -30,23 +30,23 @@ footer,header,hgroup,menu,nav,section {
    display: block;
 }
 
-audio,
+/* audio,
 canvas,
 video {
    display: inline-block;
-}
+} */
 
-audio:not([controls]) {
+/* audio:not([controls]) {
    display: none;
    height: 0;
-}
+} */
 
 [hidden] { display: none; }
 
-code, kbd, pre, samp {
+/* code, kbd, pre, samp {
    font-family: monospace, serif;
    font-size: 1em;
-}
+} */
 
 pre {
    white-space: pre;
@@ -54,31 +54,31 @@ pre {
    word-wrap: break-word;
 }
 
-blockquote, q { quotes: &#8220 &#8220; }
+/* blockquote, q { quotes: &#8220 &#8220; }
 
 blockquote:before, blockquote:after,
 q:before, q:after {
    content: '';
    content: none;
-}
+} */
 
-ins {
+/* ins {
    background-color: #ff9;
-   color: #000;
+   color: rgb(255, 0, 0);
    text-decoration: none;
-}
+} */
 
-mark {
+/* mark {
    background-color: #A7F4F6;
    color: #555;
-}
+} */
 
 del { text-decoration: line-through; }
 
-abbr[title], dfn[title] {
+/* abbr[title], dfn[title] {
    border-bottom: 1px dotted;
    cursor: help;
-}
+} */
 
 table {
    border-collapse: collapse;
@@ -123,7 +123,7 @@ h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; }
 h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; }
 h5 { font-size: 18px; line-height: 30px; }
 h6 { font-size: 14px; line-height: 30px; }
-.subheader { }
+/* .subheader { } */
 
 p { margin: 0 0 30px 0; }
 p img { margin: 0; }
@@ -136,7 +136,7 @@ em { font: 15px/30px 'opensans-italic', sans-serif; }
 strong, b { font: 15px/30px 'opensans-bold', sans-serif; }
 small { font-size: 11px; line-height: inherit; }
 
-blockquote {
+/* blockquote {
    margin: 30px 0px;
    padding-left: 40px;
    position: relative;
@@ -167,8 +167,8 @@ blockquote cite {
 }
 blockquote cite:before { content: "\2014 \0020"; }
 blockquote cite a,
-blockquote cite a:visited { color: #8B9798; border: none }
-
+blockquote cite a:visited { color: #8B9798; border: none } */
+/* 
 .pull-quote {
    position: relative;
 	padding: 18px 30px 18px 0px;
@@ -196,7 +196,7 @@ blockquote cite a:visited { color: #8B9798; border: none }
 }
 .pull-quote blockquote:before {
    content: none;
-}
+} */
 
 abbr {
    font-family: 'opensans-bold', sans-serif;
@@ -365,7 +365,7 @@ dd { margin: 0 0 0 20px; }
    background-color: #E6E8EB;
 	color: #A9ADB2;
 }
-.pagination .prev, .pagination .next {}
+/* .pagination .prev, .pagination .next {} */
 
 
 img {
